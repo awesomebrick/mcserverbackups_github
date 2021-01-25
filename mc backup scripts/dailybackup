@@ -1,0 +1,6 @@
+@ECHO OFF
+
+cd "C:\Desktop\minecraftserverold"
+
+set currentdate=%date:~4,10%
+set currentdate=%currentdate:/=_%
